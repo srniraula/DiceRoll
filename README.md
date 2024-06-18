@@ -1,16 +1,11 @@
-# diceapp
+This is a flutter app named "Dice Roll". This app has a button to roll a dice and displays random side of a 6-sided dice. 
 
-A new Flutter project.
+Project files are in lib directory. 
 
-## Getting Started
+File 'main.dart' is simply for setting up environment for runApp() method of flutter which is the main method to display anything on the screen.
 
-This project is a starting point for a Flutter application.
+File 'gradient_container.dart' is for setting a container and background decoration.
 
-A few resources to get you started if this is your first Flutter project:
+File 'dice_roller.dart' has the dice and button for rolling dice. 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Working in this project made me familiar with statelesswidget, statefulwidget, private class, etc. and more on data types. Got familiar with final and const keyword and their differences. I also got to know about styling the screen, text, etc. and using images in project. 
